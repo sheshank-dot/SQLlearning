@@ -1,0 +1,6 @@
+--Basic Select Statement PRactice 
+
+-- Data Inspection
+Select * from DVD_Rental
+Where City =Jaipur
+Limit 5,
